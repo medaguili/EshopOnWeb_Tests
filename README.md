@@ -37,8 +37,8 @@
   <h2>Prerequisites</h2>
   <ul>
     <li>Windows 10 or higher</li>
-    <li><a href="https://dotnet.microsoft.com/en-us/download/dotnet/6.0" target="_blank">.NET 6.0 SDK</a></li>
-    <li><a href="https://visualstudio.microsoft.com/" target="_blank">Visual Studio 2022</a> or other IDE supporting C#</li>
+    <li><a href="https://dotnet.microsoft.com/en-us/download/dotnet/6.0" target="_blank">.NET 8.0 SDK </a></li>
+    <li><a href="https://visualstudio.microsoft.com/" target="_blank">Visual Studio 2022</a> or Visual Code or any other IDE supporting C#</li>
     <li>Microsoft Edge browser (latest version)</li>
     <li>Git</li>
   </ul>
@@ -47,8 +47,8 @@
 
   <ol>
     <li><strong>Clone the repository</strong>
-      <pre><code>git clone https://github.com/&lt;your-username&gt;/EshopOnWeb-AutomatedTests.git
-cd EshopOnWeb-AutomatedTests</code></pre>
+      <pre><code>git clone https://github.com/medaguili/EshopOnWeb_Tests.git
+cd EshopOnWeb_Tests</code></pre>
     </li>
  .
     <strong>Run EshopOnWeb locally</strong>
