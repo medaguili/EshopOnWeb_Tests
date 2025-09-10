@@ -80,7 +80,7 @@ cd EshopOnWeb-AutomatedTests</code></pre>
       <pre><code>dotnet test</code></pre>
     </li>.
    .
-    <li><strong>Run an individual test case:</strong>
+    <li><strong>Run an individual test case (eg . TC05 ) :</strong>
       <pre><code>dotnet test --filter "FullyQualifiedName~EshopOnWebTests.Tests.TC05"</code></pre>
     </li>
   </ul>
