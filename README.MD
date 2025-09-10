@@ -50,14 +50,14 @@ cd EshopOnWeb-AutomatedTests</code></pre>
         <li>Run the application locally (usually on <code>https://localhost:5001</code>).</li>
       </ul>
     </li>
-
+.
     <li><strong>Open the test project</strong>
       <ul>
         <li>Open the <code>EshopOnWebTests</code> project in Visual Studio.</li>
         <li>Restore NuGet packages (Selenium, WebDriverManager, xUnit).</li>
       </ul>
     </li>
-
+.
     <li><strong>Configure test settings</strong>
       <pre><code>private readonly string baseUrl = "https://localhost:5001";</code></pre>
     </li>
