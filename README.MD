@@ -123,7 +123,7 @@ cd EshopOnWeb-AutomatedTests</code></pre>
 
   <h2>Test Case Documentation</h2>
   <p>
-    A full <strong>Excel file</strong> (<code>TestCases.xlsx</code>) is included in the repository.  
+    A full <strong>Excel file</strong> (<code>Test_Cases.xlsx</code>) is included in the repository.  
     It documents <strong>15 test cases (TC01 – TC15)</strong> with the following details:
   </p>
   <ul>
@@ -142,7 +142,7 @@ cd EshopOnWeb-AutomatedTests</code></pre>
   <h2>Bug Reporting</h2>
   <p>
     As part of the assessment, at least <strong>3 bugs were identified</strong> during testing.  
-    Bug reports are provided in a separate document (<code>BugReports.docx</code> or <code>BugReports.xlsx</code>) including:
+    Bug reports are provided in a separate document (<code>BugReport.xlsx</code>) including:
   </p>
   <ul>
     <li>Bug ID</li>
