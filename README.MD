@@ -78,7 +78,7 @@ cd EshopOnWeb-AutomatedTests</code></pre>
   <ul>
     <li><strong>Run all tests in the project:</strong>
       <pre><code>dotnet test</code></pre>
-    </li>
+    </li>.
    
     <li><strong>Run an individual test case:</strong>
       <pre><code>dotnet test --filter "FullyQualifiedName~EshopOnWebTests.Tests.TC05"</code></pre>
