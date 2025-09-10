@@ -1,48 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>EshopOnWeb Automated Tests - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      max-width: 900px;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    code, pre {
-      background: #f4f4f4;
-      padding: 4px 6px;
-      border-radius: 4px;
-      font-family: Consolas, monospace;
-    }
-    pre {
-      overflow-x: auto;
-      padding: 10px;
-    }
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      margin: 15px 0;
-    }
-    table, th, td {
-      border: 1px solid #ddd;
-    }
-    th, td {
-      padding: 10px;
-      text-align: left;
-    }
-    th {
-      background: #f9f9f9;
-    }
-    ul {
-      margin-left: 20px;
-    }
-  </style>
-</head>
+
 <body>
 
   <h1>EshopOnWeb Automated Tests</h1>
