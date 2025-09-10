@@ -40,7 +40,7 @@
       <pre><code>git clone https://github.com/&lt;your-username&gt;/EshopOnWeb-AutomatedTests.git
 cd EshopOnWeb-AutomatedTests</code></pre>
     </li>
-
+.
     <li><strong>Run EshopOnWeb locally</strong>
       <ul>
         <li>Clone the main project:</li>
